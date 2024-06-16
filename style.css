@@ -138,7 +138,7 @@ a{
 }
 
 .photo{
-    background-image: url(/Users/lenovo/Desktop/study/web_development/tasks/portfolio/profile_photo.jpeg);
+    background-image: url(profile_photo.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 50%;
